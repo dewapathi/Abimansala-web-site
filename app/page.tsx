@@ -223,7 +223,7 @@ export default function Home() {
             </div>
           </div>
 
-          <form className="space-y-4 bg-neutral-950/80 border border-neutral-800 rounded-3xl p-6">
+          {/* <form className="space-y-4 bg-neutral-950/80 border border-neutral-800 rounded-3xl p-6">
             <div className="grid sm:grid-cols-2 gap-4">
               <div>
                 <label className="block text-xs text-gray-400 mb-1">
@@ -286,7 +286,7 @@ export default function Home() {
             >
               Send enquiry
             </button>
-          </form>
+          </form> */}
         </div>
       </section>
     </main>
